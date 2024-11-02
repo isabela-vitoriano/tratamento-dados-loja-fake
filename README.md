@@ -1,4 +1,4 @@
-# Análise de Dados de Carrinho em Loja Fake
+# Consumo e Tratamento de Dados de Carrinho em Loja Fake
 
 ## Descrição
 Este projeto tem como objetivo consumir dados da [Fake Store API](https://fakestoreapi.com/docs), realizar o tratamento desses dados e persistir as informações em uma tabela do Big Query. A análise foca em identificar o identificador de usuário, a data mais recente em que o usuário adicionou produtos ao carrinho e a categoria com mais produtos adicionados ao carrinho.
